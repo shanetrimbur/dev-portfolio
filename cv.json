@@ -1,19 +1,19 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Shane Trimbur",
+    "label": "Solutions Architect -- Client Solutions -- Cybersecurity Engineering",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "email": "trimbur.careers@gmail.com",
+    "phone": "626.524.8222",
+    "url": "https://github.com/shanetrimbur",
+    "summary": "Veteran cybersecurity strategist with extensive DoD enterprise expertise spanning two decades. Proven ability to build and guide diverse teams while establishing forward-looking capabilities that exceed targets. Employs insider knowledge as a Marine technical leader versed in delivering innovative solutions that meet complex government needs. Leverages deep defense sector expertise to transform mission requirements into enterprise-ready architectures.",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "",
+      "city": "MCAS Miramar",
+      "countryCode": "US",
+      "region": "California"
     },
     "profiles": [
       {
@@ -22,55 +22,59 @@
         "url": "https://linkedin.com/in/john-doe"
       },
       {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "network": "LinkedIn",
+        "username": "shanetrimbur",
+        "url": "https://linkedin.com/in/shanetrimbur"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "shanetrimbur",
+        "url": "https://github.com/shanetrimbur"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
+      "name": "3rd Marine Aircraft Wing",
+      "position": "Data Systems Engineering Officer -- Information Systems Security Engineer",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "location": "MCAS Miramar",
+      "url": "",
+      "startDate": "2023-01-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Leading enterprise cloud adoption and data fusion initiatives for MARFORPAC and 3rd MAW.",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Spearheaded enterprise cloud adoption initiative impacting MARFORPAC and 3rd MAW",
+        "Pioneered innovative Azure-based data fusion system",
+        "Established advanced JADC2 capabilities"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
+        "Implementing experimental multi-cloud architecture through the Joint Warfighting Cloud Capability program",
+        "Integrating Naval Research Labs with partner agencies for real-time environmental intelligence sharing"],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Designed and coordinated authority to operate for hybrid cloud environmental intelligence integrations for enhanced battlefield visualization"
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "Azure",
+        "Python",
+        "Powershell"
+        "MCCAST"
+        "Data Fusion"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "Marine Wing Communications Squadron 38",
+      "position": "Data Systems Engineering Officer -- Information Systems Security Engineer",
+      "location_type": "On site",
+      "location": "MCAS Miramar",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Led award-winning JADC2 transformation initiative and tactical infrastructure modernization.",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+        "Led systems engineering activities toward award-winning JADC2 transformation initiative",
+        "Modernized tactical infrastructure supporting 20,000+ joint force personnel",
+        "Supervised integration of advanced network systems during Project Convergence"
       ],
       "responsibilities": [
         "Developed and maintained backend services using Python and Django.",
